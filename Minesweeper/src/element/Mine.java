@@ -1,8 +1,9 @@
 package element;
 
 class Mine {
-
-    public Mine() {
+    
+    boolean canExplode() {
+        return true;
     }
     
 }
